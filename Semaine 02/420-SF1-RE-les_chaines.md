@@ -39,7 +39,7 @@ On écrit la phrase naturellement mais ça débute par un f" au lieu d’un simp
 
 chaine = f"{nom} a {age} ans"
 
-Le bout de code {nom} sera remplacé par le contenu de la variable nom. Même chose pour {age]. On n’a pas à convertir age en utilisant str(age). Le f-string s’en occupe.
+Le bout de code {nom} sera remplacé par le contenu de la variable nom. Même chose pour {age}. On n’a pas à convertir age en utilisant str(age). Le f-string s’en occupe.
 
 Cela peut même être une expression arithmétique.
 
