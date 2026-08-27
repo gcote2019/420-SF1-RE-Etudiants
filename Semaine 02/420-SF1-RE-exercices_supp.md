@@ -28,7 +28,7 @@ Quel est le montant? 58
 
 1 x$1
 
-- 2\) Écrivez une petite calculatrice de taxes. Saisir un nombre flottant (montant initial), un rabais (valeur entière) et calculer la TPS (5%), la TVQ (9,975%) et le montant final. Ne pas oublier que le séparateur décimal en python est le point « . ».
+- 2\) Écrivez une petite calculatrice de taxes. Saisir un nombre flottant (montant initial), un rabais (valeur entière qui représente un pourcentage) et calculer la TPS (5%), la TVQ (9,975%) et le montant final. Ne pas oublier que le séparateur décimal en python est le point « . ».
 
 Essayez d’utiliser « print(f"… {variable:.2f}")
 
