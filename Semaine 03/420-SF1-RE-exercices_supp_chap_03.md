@@ -28,18 +28,18 @@ Il est important d'expliquer d'où vient le 235,215 dans notre code. Sinon, quel
 ​  
 Le nombre 235,215 est simplement :  
    
-$$ \boxed{ \frac{1\text{ gallon US en litres}\times100} {1\text{ mile en kilomètres}} } $$  
+1 gallon US en litres x 100 / 1 mile en kilomètres  
    
 c'est-à-dire :  
    
-$$ \boxed{ \frac{3,785411784\times100}{1,609344} =235,215 } $$  
+(3,785411784 x 100) / 1,609344 = 235,215  
    
-où 1 mile = 1,609344 et 1 gallon = 3,785411784 litres  
+où 1 mile = 1,609344 km et 1 gallon = 3,785411784 litres  
    
 C'est donc un facteur de conversion, pas une constante propre aux automobiles.  
    
 Par exemple, pour 30 MPG :  
    
-$$ \frac{235,215}{30}=7,8405 $$  
+235,215/30=7,8405  
    
 Essayez d'écrire un commentaire qui explique cela en utilisant le """ """  
