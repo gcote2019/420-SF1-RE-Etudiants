@@ -11,8 +11,8 @@ print(calculer_prix_ttc(400))
 Cela devrait afficher  
    
    
-114.75    
-459.0  
+114.98    
+459.90  
    
 2\) Modifiez le code de l'exercice du calcul de la mensualité d'un prêt en ecrivant une fonction (calculer_mensualite). Ne pas utiliser de variables globales svp.  
    
