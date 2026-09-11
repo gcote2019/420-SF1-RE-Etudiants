@@ -2,8 +2,8 @@
 
 La fonction round en python utilise l'arrondi bancaire ou l'arrondi au pair le plus proche.
 
-> print(round(2.5, 0)) # 2.0
-> print(round(3.5, 0)) # 4.0
+> print(round(2.5, 0)) # 2.0  
+> print(round(3.5, 0)) # 4.0  
 
 Contrairement à l'arrondi standard (qui arrondit toujours le chiffre 5 au supérieur), l'arrondi bancaire arrondit au nombre pair le plus proche lorsque le chiffre à arrondir est exactement au milieu.
 
