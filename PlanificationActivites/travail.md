@@ -7,7 +7,7 @@
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
 | 4.1 4.2 4.5 | 4.4 4.6 |   |   
-| 4.8 4.9 | 4.12 |   |   
+| 4.8 4.9 4.13 | 4.12 |   |   
 | 4.17 | 4.15 4.16 |   |   
 |   |   |   |   
 | Exercices |   | Chapitre 6 (pas 5 !) |   
