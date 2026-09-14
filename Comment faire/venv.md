@@ -2,7 +2,7 @@
 
 PyCharm crée un environnement virtuel à chaque fois qu'on a un nouveau projet ou quand on importe un projet.
 
-On peut ré-utiliser le .venv d'un autre projet ou même en créer un nouveau.
+Au lieu de créer un .venv à chaque fois, on peut ré-utiliser le .venv d'un autre projet ou même en créer un nouveau.
 
 ![menu](./venv/venv1.png)
 
