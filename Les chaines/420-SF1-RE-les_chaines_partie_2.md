@@ -57,7 +57,7 @@ o
 n  
 !  
 
-Une autre façon d'extraire les caractère est  
+Une autre façon d'extraire les caractères est  
 `chaine = "Bon!"`    
 `for caractere in chaine:`  
 &nbsp;&nbsp;&nbsp;&nbsp; `print(caractere)`   
