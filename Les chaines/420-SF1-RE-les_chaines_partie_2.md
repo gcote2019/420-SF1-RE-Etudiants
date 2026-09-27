@@ -135,7 +135,7 @@ On peut écrire `chaine[début:fin:pas]` où la fin est exclue
 `sous_chaine = chaine[2:5:2]` # no i.e indice 2 puis indice 4  
 
 Si le pas est 1, on peut écrire `chaine[début:fin]` ou `chaine[début:fin:]`  
-Si la fin est le dernier caractère, on peut écrire `chaine[début::pas]`, etc  
+Si on veut inclure le dernier caractère, on peut écrire `chaine[début::pas]`, etc  
 
 `sous_chaine = chaine[4::]` # our! i.e. dernier est inclus et le pas est 1  
 `sous_chaine = chaine[::]` # Bonjour! i.e toute la chaine  
