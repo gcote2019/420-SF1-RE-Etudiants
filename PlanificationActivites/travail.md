@@ -12,6 +12,8 @@
 | 12.9 12.13                    |                         |                                  |
 | 12.15 12.16 12.17 12.23       | 12.18 12.19             |                                  |
 
+$\color{red}{\text{Le livre suppose qu'on a fait le chapitre 8 pour réussir l'exercice 12.1 mais on peut le faire différemment.}}$ 
+
 
 ## Semaine 5
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
