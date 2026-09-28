@@ -4,7 +4,7 @@
 
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
 |:-----------------------------:|:-----------------------------:|:--------------------------------:|
-| 7.1 7.2                       |                               | Chapitre 12                       |
+| 7.1 7.2                       |                               | [chaine](https://github.com/gcote2019/420-SF1-RE-Etudiants/blob/main/Les%20chaines/420-SF1-RE-les_chaines_partie_2.md)                       |
 | 7.3 7.5 7.7 7.8               | 7.6                           |             |
 |   |   |   |   
 | 7.10 7.13 7.17            | 7.9  7.14 7.18                | Chapitre 8                                 |
