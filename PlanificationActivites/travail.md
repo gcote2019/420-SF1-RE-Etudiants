@@ -1,5 +1,19 @@
 # Planification du travail hebdomadaire
 
+## Semaine 8
+Intra le 15 octobre
+
+Chapitre 1 à chapitre 7 mais excluant l'écriture des fichiers
+
+
+## Semaine 7
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
+|:-----------------------------:|:-----------------------------:|:--------------------------------:|
+| 8.1 8.2 8.4                   | 8.7                           | Aucune                       |
+| 8.8 8.11 8.13                 | 8.14 8.15                     | Travail sur TP                |
+| 8.19                          | 8.21 8.22                     | Préparation intra                |
+|                     | 12.14                         |                                  |
+
 ## Semaine 6
 
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
