@@ -1,5 +1,21 @@
 # Planification du travail hebdomadaire
 
+
+## Semaines 9 et 10
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours   |
+|:-----------------------------:|:-----------------------------:|:--------------------------------:|
+| 9.1 9.3                       | 9.2                           | Chapitre 10                      |
+| 9.4 9.5 9.8 9.11 9.18         | 9.7 9.9 9.10 9.12 9.13 9.15   |     |
+| 9.22 9.25                         | 9.17 9.20                     |   |
+|   |   |   |   
+| 9.29 9.30 9.32                | 9.33 9.34 9.36                | Aucune lecture                   |
+| 10.2 10.3                     | 10.4 10.5                     |                                  |
+| 10.8                          | 10.10                         |                                  |
+| 10.9                          |                               |                                  |
+| 12.8                     |                      |                |
+
+
+
 ## Semaine 8
 Intra le 15 octobre
 
